@@ -1,0 +1,4 @@
+ContiVUM Community
+Copyright 2026-present ContiVUM. All rights reserved.
+
+This product includes software developed by ContiVUM(https://github.com/contivum).
